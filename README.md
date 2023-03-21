@@ -42,7 +42,7 @@ our trouver la liste des emojis disponible avec github : [Liste des emojis](http
   C'est super funny :sweat_smile:	
 
 
-    ## Liste simple   
+## Liste simple   
     * Elem A  
     * Elem B	  
     * Elem C  
